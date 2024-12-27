@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
 import { addContact } from "../redux/contactsSlice";
-import styles from "../styles/ContactForm.module.css"; // Import modułu CSS
+import styles from "../styles/ContactForm.module.css"; 
 
 const ContactForm = () => {
   const [name, setName] = useState(""); 

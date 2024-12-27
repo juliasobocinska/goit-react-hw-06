@@ -37,6 +37,6 @@ const contactsSlice = createSlice({
   },
 });
 
-// Eksportowanie akcji i reducer
+
 export const { addContact, deleteContact } = contactsSlice.actions;
 export default contactsSlice.reducer;
