@@ -10,10 +10,6 @@
     margin-bottom: 8px;
   }
   
-  .contactItem:hover {
-    background-color: #f1f1f1;
-  }
-  
   .contactInfo {
     font-weight: bold;
     font-size: 16px;

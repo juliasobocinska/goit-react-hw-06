@@ -16,7 +16,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Phonebook</h1>
+      <h1>PHONEBOOK</h1>
       <ContactList contacts={contacts} />
       <SearchBox />
       <ContactForm onAddContact={handleAddContact} /> 
